@@ -13,3 +13,6 @@
 [submodule "S2_SAE_Arduino"]
 	path = S2_SAE_Arduino
 	url = git@github.com:Pyramond/SAE-203---Arduino.git
+[submodule "S2_SAE_Qt"]
+	path = S2_SAE_Qt
+	url = git@github.com:Pyramond/SAE201-Qt.git
