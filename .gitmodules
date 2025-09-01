@@ -1,9 +1,6 @@
 [submodule "S1_lyon1-nexus"]
 	path = S1_lyon1-nexus
 	url = https://github.com/Pyramond/lyon1-nexus
-[submodule "S2_TP-Cpp-MyString"]
-	path = S2_TP-Cpp-MyString
-	url = git@github.com:Pyramond/TP-S2-CPP-MyString.git
 [submodule "S2-SAE-Pydance"]
 	path = S2-SAE-Pydance
 	url = git@github.com:Pyramond/Pydance.git
