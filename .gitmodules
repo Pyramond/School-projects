@@ -13,3 +13,9 @@
 [submodule "S2_SAE_Qt"]
 	path = S2_SAE_Qt
 	url = git@github.com:Pyramond/SAE201-Qt.git
+[submodule "2A_SAE_Frontend"]
+	path = 2A_SAE_Frontend
+	url = git@github.com:Pyramond/SAE-2A-Frontent.git
+[submodule "2A_SAE_Backend"]
+	path = 2A_SAE_Backend
+	url = git@github.com:Pyramond/SAE-2A-Backend.git
