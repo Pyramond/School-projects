@@ -17,7 +17,7 @@
 	path = 2A_SAE_Frontend
 	url = git@github.com:Pyramond/SAE-2A-Frontent.git
 [submodule "2A_SAE_Backend"]
-	path = 2A_SAE_Backend
+	path = S4_SAE_Backend
 	url = git@github.com:Pyramond/SAE-2A-Backend.git
 [submodule "S4_AirQualityFR-Kotlin"]
 	path = S4_AirQualityFR-Kotlin
